@@ -1,5 +1,8 @@
 <code_scheme name="i.rakov">
   <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
