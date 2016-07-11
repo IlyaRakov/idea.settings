@@ -1,0 +1,9 @@
+<code_scheme name="i.rakov">
+  <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
